@@ -12,6 +12,6 @@
 			   <p>站点统计：共浏览${count}次</p>
 				<p>版权所有：xxxxxx</p>
 				<p>电话：xxx-xxxx&nbsp;&nbsp;&nbsp;邮箱：XXXXXXXX@163.com</p>
-				<p>地址：xxx省xxxxXXXXXXXXX</p>
+				<p>地址：陕西省咸阳市杨凌区</p>
 			</div>
 		</div>
